@@ -1,0 +1,8 @@
+pip install these 
+streamlit
+python-dotenv
+beautifulsoup4
+selenium
+faiss-cpu
+sentence-transformers
+llama-index
